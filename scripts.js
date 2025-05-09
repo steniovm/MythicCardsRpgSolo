@@ -1,3 +1,32 @@
+/*
+Developed by: Stênio V. Medeiros
+https://steniovm.github.io/steniovm/
+Official repository
+https://github.com/steniovm/MythicCardsRpgSolo
+License: GNU GENERAL PUBLIC LICENSE Version 3
+The code for this software is completely free, but the Mythic images belong to wordmillgames.
+Mythic is a GM emulator for tabletop RPGs. It can also be used as a GM assistant.
+The standard version of Mythic consists of a rulebook that uses 2d10 as a random element. The Card version is a simplified version but still quite rich.
+In Brazil, Mythic has been translated and is being distributed by the publisher Retropunk ( https://retropunk.com.br/editora ).
+The book can be purchased at the publisher's store, https://loja.retropunk.com.br/index.php?id_product=841&rewrite=mythic-emulador-de-mestre-de-jogo-pdf&controller=product .
+The deck of cards can also be purchased ( https://loja.retropunk.com.br/index.php?id_product=844&rewrite=mythic-baralho-de-narrativas-mythicas-jpg&controller=product ) in jpg with a pdf manual, and in a physical version.
+The software was written entirely in vanilla html, css and javascript, so it can be run directly in the browser without the need to install any dependency packages.
+Because it uses local storage, the user must continue their adventure on the same device, same browser and same browser user profile. In addition, in some browsers it may be necessary for the user to authorize the use of Cookies.
+
+Desenvolvido por: Stênio V. Medeiros
+https://steniovm.github.io/steniovm/
+Repositório oficial
+https://github.com/steniovm/MythicCardsRpgSolo
+Licença: GNU GENERAL PUBLIC LICENSE Version 3
+O codigo deste software é totalmente livre, porém as imagens do Mythic pertencem à wordmillgames.
+O Mythic é um emulador de mestre para RPGs de mesa. Também pode ser usado como auxiliar de mestre.
+A versão padrão do Mythic consiste em um livro de regras que utilizam 2d10 como elemento de aleatóriedade. A versão em Cartas é uma versão simplificada porém ainda bastante rica.
+No Brasil o Mythic foi traduzido e está sendo distribuido pela editora Retropunk ( https://retropunk.com.br/editora ).
+A livro pode ser comprado na loja da editora, https://loja.retropunk.com.br/index.php?id_product=841&rewrite=mythic-emulador-de-mestre-de-jogo-pdf&controller=product .
+O baralho também pode pode ser adquirido ( https://loja.retropunk.com.br/index.php?id_product=844&rewrite=mythic-baralho-de-narrativas-mythicas-jpg&controller=product ) em jpg com manual em pdf, e na versão física.
+O software foi todo escrito em html, css e javascript vanilla, de forma que pode ser executado direto no navegador sem necessidade de instalar qualquer pacote de dependências.
+Por usar o local storage o usuário deve continuar sua aventura no mesmo dispositivo, mesmo navegador e mesmo perfil de usuário do navegador. Além disso, em alguns navegadores pode ser necessário que o usuário autorize a utilização de Cookies.
+*/
 //global variables and constants
 //variaveis e constantes globais
 const FCN = [
