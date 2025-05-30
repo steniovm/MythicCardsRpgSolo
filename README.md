@@ -39,7 +39,7 @@ O baralho também pode pode ser adquirido <a href="https://loja.retropunk.com.br
 <li><strong>Carta de regras (Fator Caos):<strong> carta com instruções simplificadas sobre o fator caos.</li>
 <li><strong>Carta de regras (pergunta do destino):<strong> carta com instruções simplificadas sobre como realizar perguntas do destino.</li>
 <li><strong>Fator Caos:<strong> mostra, aumenta e diminue o fator de caos, um importantisimo atributo de estado do Mythic.</li>
-<li><strong>Modo Claro/Escuro:<strong> alterna as cores da página.</li>
+<li><strong>Configurações: </strong>permite configurar as preferencias de usuário como: Modo Claro/Escuro, tamanho das cartas e auto remoção de itens das lista.</li>
 </ol>
 
 <p>
